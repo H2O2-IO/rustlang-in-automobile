@@ -22,7 +22,9 @@ This is a list of projects/news that use Rust in the automobile industry. If you
 
 1. [ELISA Summit (Sep 2022) | AUTOSAR Adaptive Applications in Rust](https://www.youtube.com/watch?v=uu46jLRWuzU)
 
+2023-03-07
 
+1. [Automotive Safety and Cybersecurity: Infineon's AURIX™ TC3xx, TC4x, TRAVEO™ T2G & PSoC families of microcontrollers support Rust](https://www.infineon.com/cms/en/about-infineon/press/market-news/2023/INFATV202303-076.html)
 
 ## Contributing
 

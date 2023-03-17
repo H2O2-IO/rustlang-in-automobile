@@ -6,7 +6,7 @@ This is a list of projects/news that use Rust in the automobile industry. If you
 
 - [a2lfile](https://github.com/DanielT/a2lfile) - A library that allows you to read, modify and write a2l files.
 - [asap2-rs](https://github.com/H2O2-IO/asap2-rs) - High performance a2l file parser, XCP/CCP Master, and more useful tools implemented by Rust.
-- [assmmdf](https://github.com/H2O2-IO/asammdf) - Read and write ASAM MDF file, simply and efficiently.
+- [asammdf](https://github.com/H2O2-IO/asammdf) - Read and write ASAM MDF file, simply and efficiently.
 
 ## News
 
